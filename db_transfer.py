@@ -3,6 +3,7 @@ from create_bot import config
 import time
 
 
+
 def connection_init(host, user, password, db_name):
     connection = pymysql.connect(
         host=host,

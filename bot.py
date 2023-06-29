@@ -39,6 +39,7 @@ src_dir = os.path.normpath(os.path.join(__file__, os.path.pardir))
 #     finish = State()
 #
 #
+#
 # async def get_data(dialog_manager: DialogManager, **kwargs):
 #     age = dialog_manager.data.get("age", None)
 #     return {
